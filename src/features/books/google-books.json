@@ -1,0 +1,2828 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 36,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GsNfEAAAQBAJ",
+      "etag": "VstgQKuFUII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GsNfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Элантрис",
+        "authors": [
+          "Брендон Сандерсон"
+        ],
+        "publisher": "Азбука-Аттикус",
+        "publishedDate": "2022-02-17",
+        "description": "Величественный Элантрис, город богов, средоточие магии, мудрости и несказанной красоты, был подобен серебряному костру, горящему в вечности. Стать элантрийцем и уподобиться богам мог любой человек, которого касался шаод — таинственное преображение, наделяющее избранных волшебной силой. Вечность закончилась десять лет назад. Прекрасный город пал, а благословение шаода обернулось проклятием. Новая столица Арелона, маленький Каи, живет в тени черных стен Элантриса, стараясь не замечать города, ставшего резервацией для тех несчастных, кого по-прежнему забирает шаод. Но очередной жертвой оказывается Раоден, наследный принц Арелона…",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785389207066"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5389207068"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GsNfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GsNfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=GsNfEAAAQBAJ&pg=PA1&dq=*&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=GsNfEAAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%AD%D0%BB%D0%B0%D0%BD%D1%82%D1%80%D0%B8%D1%81.html?hl=&id=GsNfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%AD%D0%BB%D0%B0%D0%BD%D1%82%D1%80%D0%B8%D1%81-sample-epub.acsm?id=GsNfEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%AD%D0%BB%D0%B0%D0%BD%D1%82%D1%80%D0%B8%D1%81-sample-pdf.acsm?id=GsNfEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GsNfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Величественный Элантрис, город богов, средоточие магии, мудрости и несказанной красоты, был подобен серебряному костру, горящему в ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L344zgEACAAJ",
+      "etag": "xIA+62nenCY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L344zgEACAAJ",
+      "volumeInfo": {
+        "title": "Песнь Ахилла",
+        "authors": [
+          "Madeline Miller"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5171087652"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785171087654"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 379,
+        "printType": "BOOK",
+        "categories": [
+          "Greece"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=L344zgEACAAJ&dq=*&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=L344zgEACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9F%D0%B5%D1%81%D0%BD%D1%8C_%D0%90%D1%85%D0%B8%D0%BB%D0%BB%D0%B0.html?hl=&id=L344zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L344zgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;На страницах &quot;Песни Ахилла&quot; рассказывает свою историю один из самых интересных персонажей &quot;Илиады&quot;--Патрокл, спутник несравненного ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QzYREAAAQBAJ",
+      "etag": "Lc5vu3qNXqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QzYREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Разговоры с друзьями",
+        "authors": [
+          "Салли Руни"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2020-12-10",
+        "description": "Студентки дублинского Тринити-колледжа Фрэнсис и Бобби дружат со школы. На одном из университетских поэтических вечеров они знакомятся с Мелиссой, известным фотографом, а позже и с ее мужем Ником, актером. Несмотря на то что Ник и Мелисса значительно старше Бобби и Фрэнсис, между ними завязываются дружеские отношения. Все четверо проводят вместе много времени, по большей части разговаривая – обсуждают искусство, литературу, политику, секс, дружбу и, конечно же, друг друга. У Фрэнсис начинается роман с Ником. В отношениях с Бобби появляется отчужденность...«Разговоры с друзьями» (2017) – первая книга Салли Руни, мгновенно сделавшая 26-летнюю выпускницу Тринити-колледжа всемирно известной писательницей.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043174208"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "504317420X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QzYREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QzYREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=QzYREAAAQBAJ&printsec=frontcover&dq=*&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QzYREAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QzYREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 411.25,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 370.12,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QzYREAAAQBAJ&rdid=book-QzYREAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 411250000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 370120000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A0%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D1%81_%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC%D0%B8-sample-epub.acsm?id=QzYREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A0%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D1%81_%D0%B4%D1%80%D1%83%D0%B7%D1%8C%D1%8F%D0%BC%D0%B8-sample-pdf.acsm?id=QzYREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QzYREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Студентки дублинского Тринити-колледжа Фрэнсис и Бобби дружат со школы. На одном из университетских поэтических вечеров они ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z75qDwAAQBAJ",
+      "etag": "Pb5FA4EFOo4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z75qDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Сказка о кролике Питере",
+        "authors": [
+          "Беатрис Поттер"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-08-25",
+        "description": "Беатрис Поттер – английская детская писательница, жившая и творившая в начале прошлого века. В Англии сказочницей гордятся и даже считают ее сочинения национальным достоянием. Ее сказки известны и любимы детьми всего мира. Кого там только не увидишь! В них прачка-ежиха Ухти-Тухти стирает одежду лесным жителям, белки запасают орешки на зиму и попадают в переделки, кошечка в сапожках и курточке выходит на охоту с пневматическим ружьем, кролик Питер в голубой курточке отправляется на ближайший огород полакомиться капусткой, но сталкивается со злобным хозяином-земледельцем...Беатрис Поттер очень любила животных, изучала их всю жизнь и писала именно о них – забавных и серьезных, трусливых и храбрых, рассудительных и отчаянных. А еще мисс Поттер сама создавала иллюстрации к своим маленьким произведениям: она «одевала» зверят в платья, сюртучки и шапочки, и они становились так похожи на людей...Эти добрые сказки и сегодня нравятся малышам и детям постарше. Ведь в них столько героев, которым ребенок сопереживает, и приключений, которые увлекают. А для родителей книги Поттер – своеобразный «билет в детство»: туда, где мама вечерами, обязательно вслух и с выражением, читала о веселых зверятах, которые учили дочек и сыновей дружбе, верности и взаимопомощи.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041284534"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041284539"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z75qDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z75qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=z75qDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=z75qDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=z75qDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 62.37,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 56.13,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=z75qDwAAQBAJ&rdid=book-z75qDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 62370000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 56130000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B5_%D0%9F%D0%B8%D1%82%D0%B5-sample-epub.acsm?id=z75qDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_%D0%BE_%D0%BA%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B5_%D0%9F%D0%B8%D1%82%D0%B5-sample-pdf.acsm?id=z75qDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z75qDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Беатрис Поттер – английская детская писательница, жившая и творившая в начале прошлого века. В Англии сказочницей гордятся и даже ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-kjYDwAAQBAJ",
+      "etag": "OoQN/ylkTg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-kjYDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Там, где раки поют",
+        "authors": [
+          "Делия Оуэнс"
+        ],
+        "publisher": "Phantom Press",
+        "publishedDate": "2019-08-14",
+        "description": "В течение многих лет в Баркли-Коув, тихом городке на побережье Северной Каролины, шептались о Болотной Девчонке. И когда в конце 1969-го нашли тело Чеза, местного плейбоя, жители городка сразу же заподозрили Киа Кларк - девушку, что отшельницей обитала на болотах с раннего детства. Чувствительная и умная Киа и в самом деле называла своим домом болото, а друзьями – болотных птиц и зверей. Но вот наступает пора взросления, и Киа открывает для себя совсем иную сторону жизни, в ней просыпается желание любить и быть любимой. И Киа с радостью погружается в этот неведомый новый мир – пока не происходит немыслимое. Роман знаменитого биолога Делии Оуэнс – настоящая ода природе, нежная история о взрослении, об одиночестве, о связи людей, о том, нужны ли люди вообще друг другу. И в то же время это темная, загадочная история с убийством, которое то ли было, то ли нет.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785864718360"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "586471836X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 367,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-kjYDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-kjYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=-kjYDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=-kjYDwAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A2%D0%B0%D0%BC_%D0%B3%D0%B4%D0%B5_%D1%80%D0%B0%D0%BA%D0%B8_%D0%BF%D0%BE%D1%8E%D1%82.html?hl=&id=-kjYDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A2%D0%B0%D0%BC_%D0%B3%D0%B4%D0%B5_%D1%80%D0%B0%D0%BA%D0%B8_%D0%BF%D0%BE%D1%8E%D1%82-sample-epub.acsm?id=-kjYDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A2%D0%B0%D0%BC_%D0%B3%D0%B4%D0%B5_%D1%80%D0%B0%D0%BA%D0%B8_%D0%BF%D0%BE%D1%8E%D1%82-sample-pdf.acsm?id=-kjYDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-kjYDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "В течение многих лет в Баркли-Коув, тихом городке на побережье Северной Каролины, шептались о Болотной Девчонке. И когда в конце 1969 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "__CxAgAAQBAJ",
+      "etag": "P7EPha6e3Z0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/__CxAgAAQBAJ",
+      "volumeInfo": {
+        "title": "48 законов власти",
+        "authors": [
+          "Грин Р."
+        ],
+        "publishedDate": "2014-01-28",
+        "description": "Власть — это социальная игра. Чтобы овладеть ею в совершенстве, вам придется развить в себе способность изучать и понимать людей. Искушенный знаток человеческой психологии, Роберт Грин поможет вам овладеть искусством обольщать и властвовать, привлекать к себе любовь и умело управлять мыслями и настроением других людей. Эта книга призвана научить распознавать скрытые мотивы людей и благодаря этому добиться власти. Следуя советам Роберта Грина, собранным в этой книге, вы сможете превратить каждую улыбку, каждый жест, каждое слово в сокрушительное оружие, добиться безграничного доверия и уважения.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785386060176"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5386060171"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 716,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=__CxAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=__CxAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=__CxAgAAQBAJ&printsec=frontcover&dq=*&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=__CxAgAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/48_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8.html?hl=&id=__CxAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/48_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8-sample-epub.acsm?id=__CxAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/48_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2_%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B8-sample-pdf.acsm?id=__CxAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=__CxAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Власть — это социальная игра. Чтобы овладеть ею в совершенстве, вам придется развить в себе способность изучать и понимать людей. ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "05UsEAAAQBAJ",
+      "etag": "APDPkcSvJfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/05UsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Клара и Солнце",
+        "authors": [
+          "Кадзуо Исигуро"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-05-03",
+        "description": "Клара совсем новая. С заразительным любопытством из-за широкого окна витрины она впитывает в себя окружающий мир – случайных прохожих, проезжающие машины и, конечно, живительное Солнце. Клара хочет узнать и запомнить как можно больше – так она сможет стать лучшей Искусственной Подругой своему будущему подросткуОт того, кто выберет Клару, будет зависеть ее судьба.Чистый, отчасти наивный взгляд на реальность, лишь слегка отличающуюся от нашей собственной, – вот, что дарит новый роман Кадзуо Исигуро. Каково это – любить? И можно ли быть человеком, если ты не совсем человек? Это история, рассказанная с обескураживающей искренностью, заставит вас по-новому ответить на эти вопросы.Кадзуо Исигуро – лауреат Нобелевской и Букеровской премий; автор, чьи произведения продаются миллионными тиражами. Гражданин мира, он пишет для всех, кто в состоянии понять его замысел. «Моя цель – создавать международные романы», – не устает повторять он.Сейчас его книги переведены на более чем 50 языков и издаются миллионными тиражами. Его новый роман «Клара и Солнце» – повествование на грани фантастики, тонкая спекулятивная реальность. Но, несмотря на фантастический флер, это история о семье, преданности, дружбе и человечности. Каково это – любить? И можно ли быть человеком, если ты не совсем человек?«[Исигуро] в романах великой эмоциональной силы открыл пропасть под нашим иллюзорным чувством связи с миром» – из речи Нобелевского комитета«Исигуро – выдающийся писатель» – Нил Гейман«Настоящий кудесник» – Маргарет Этвуд«Кадзуо Исигуро – писатель, суперспособность которого словно бы в том и состоит, чтобы порождать великолепные обманки и расставлять для читателя восхитительные в своей непредсказуемости ловушки». – Галина Юзефович«Изучение нашего душевного пейзажа, чем занимается Исигуро, обладает силой и проникновенностью Достоевского». – Анна НаринскаяБольше интересных фактов об этой книге читайте в ЛитРес: Журнале",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043415271"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5043415274"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 299,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.60.62.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=05UsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=05UsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=05UsEAAAQBAJ&printsec=frontcover&dq=*&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=05UsEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=05UsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 648.75,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 583.88,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=05UsEAAAQBAJ&rdid=book-05UsEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 648750000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 583880000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%BB%D0%B0%D1%80%D0%B0_%D0%B8_%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5-sample-epub.acsm?id=05UsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%BB%D0%B0%D1%80%D0%B0_%D0%B8_%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5-sample-pdf.acsm?id=05UsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=05UsEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Клара совсем новая. С заразительным любопытством из-за широкого окна витрины она впитывает в себя окружающий мир – случайных ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "haH3CIGpDp0C",
+      "etag": "xWoLCnZgN/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/haH3CIGpDp0C",
+      "volumeInfo": {
+        "title": "Медицинская физиология",
+        "publisher": "Logobook.ru",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785986570136"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5986570138"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=haH3CIGpDp0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=haH3CIGpDp0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=haH3CIGpDp0C&printsec=frontcover&dq=*&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=haH3CIGpDp0C&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B8%D0%B7%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3.html?hl=&id=haH3CIGpDp0C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B8%D0%B7%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3-sample-pdf.acsm?id=haH3CIGpDp0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=haH3CIGpDp0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_zZ-RAAACAAJ",
+      "etag": "ifXaswFDGPY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_zZ-RAAACAAJ",
+      "volumeInfo": {
+        "title": "Очень голодная гусеница",
+        "subtitle": "[для детей]",
+        "authors": [
+          "Эрик Карл"
+        ],
+        "publishedDate": "2010",
+        "description": "Follows the progress of a hungry little caterpillar as he eats his way through a varied and very large quantity of food until, full at last, he forms a cocoon around himself and goes to sleep and wakes up a butterfly.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5903497233"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785903497232"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 17,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_zZ-RAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_zZ-RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=_zZ-RAAACAAJ&dq=*&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=_zZ-RAAACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9E%D1%87%D0%B5%D0%BD%D1%8C_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B3%D1%83%D1%81%D0%B5%D0%BD%D0%B8.html?hl=&id=_zZ-RAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_zZ-RAAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Follows the progress of a hungry little caterpillar as he eats his way through a varied and very large quantity of food until, full at last, he forms a cocoon around himself and goes to sleep and wakes up a butterfly."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XVrRDwAAQBAJ",
+      "etag": "1tkeTBJW5t0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XVrRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Самые голубые глаза",
+        "authors": [
+          "Тони Моррисон"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2020-02-18",
+        "description": "В этом романе Тони Моррисон показывает темное закулисье маленького американского городка, где живет Пикола Бридлав, единственная мечта которой – голубые глаза.Красота – понятие относительное, но для Америки 40-х годов черной красоты не существует.Моррисон рассказывает сотканную из лоскутов трагедий, невежества, предрассудков историю чернокожей девочки, желающей одного – чтобы на нее взглянули по-другому.А еще – истории множества других людей: ее родителей, одноклассников, знакомых. Перед нами чередой проходят события, которые перевернули жизнь Пиколы навсегда.Есть книги, читать которые – больно. Но это боль исцеляющая, потому что о чем бы ни писала Моррисон, все ее книги – о любви.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785042323300"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5042323309"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 213,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.35.34.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XVrRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XVrRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=XVrRDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XVrRDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XVrRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 561.25,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 505.12,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XVrRDwAAQBAJ&rdid=book-XVrRDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 561250000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 505120000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8B%D0%B5_%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0-sample-epub.acsm?id=XVrRDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8B%D0%B5_%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0-sample-pdf.acsm?id=XVrRDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XVrRDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "В этом романе Тони Моррисон показывает темное закулисье маленького американского городка, где живет Пикола Бридлав, единственная ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pS_eDwAAQBAJ",
+      "etag": "11z6EBJMnPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pS_eDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ПостКапитализм. Путеводитель по нашему будущему",
+        "authors": [
+          "Пол Мейсон"
+        ],
+        "publisher": "Ad Marginem",
+        "publishedDate": "2016-05-10",
+        "description": "Зарождение и развитие капитализма сопровождалось как его циклическими кризисами, так и его возрождениями в новых обличьях. Однако в реалиях XXI века капиталистическая система, по мнению Пола Мейсона, более не способна адаптироваться к новым вызовам, что означает ее фактический крах. Раз так, то главный вопрос: каким может быть будущее, если капиталистические перспективы не утешительны? Есть ли шанс создать новую стабильную и социально ориентированную глобальную финансовую систему? В своем исследовании Пол Мейсон в качестве альтернативы предлагает модель «посткапитализма», основы которой можно найти в современной экономической системе, и они даже сосуществуют с ней. Технологическая революция последних десятилетий создала для экономики условия, в которых информационные технологии, новые формы собственности и способы распределения труда, отдыха и зарплаты сталкиваются со старыми принципами функционирования производственных и рыночных отношений и частной собственности. Помимо этого, протестные движения начала XXI века показали, что сетевое поколение, имеющее доступ к бесчисленным информационным ресурсам, вырабатывает совершенно новые ценности, правила и нормы поведения. Это значит, что базовые основания для посткапитализма уже заложены в фундамент глобальной социально-экономической системы. Проанализировав причинно-следственные связи мирового экономического кризиса 2008 года, Пол Мейсон формулирует основные теоретические принципы и исследует возможные пути и формы перехода к посткапитализму.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785911032869"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5911032864"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pS_eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pS_eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=pS_eDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=pS_eDwAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9F%D0%BE%D1%81%D1%82%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_%D0%9F%D1%83%D1%82%D0%B5%D0%B2.html?hl=&id=pS_eDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9F%D0%BE%D1%81%D1%82%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_%D0%9F%D1%83%D1%82%D0%B5%D0%B2-sample-pdf.acsm?id=pS_eDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pS_eDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Зарождение и развитие капитализма сопровождалось как его циклическими кризисами, так и его возрождениями в новых обличьях. Однако ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dJkUEAAAQBAJ",
+      "etag": "CoaukwGiG1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dJkUEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Конституция Российской Федерации с комментариями для школьников",
+        "authors": [
+          "Михаил Смоленский"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2020-07-07",
+        "description": "В настоящем комментарии текста Конституции Российской Федерации 1993 г. в простой и доступной форме разъяснены значение Конституции РФ, термины, используемые в тексте, а также принципы развития общества и государства в России.Для учащихся школ, колледжей, студентов высших учебных заведений, а также граждан, желающих понять принципы и перспективы развития России.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785042646713"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "504264671X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dJkUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dJkUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=dJkUEAAAQBAJ&printsec=frontcover&dq=*&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dJkUEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dJkUEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 248.75,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 223.88,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dJkUEAAAQBAJ&rdid=book-dJkUEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 248750000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 223880000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA-sample-epub.acsm?id=dJkUEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA-sample-pdf.acsm?id=dJkUEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dJkUEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "В настоящем комментарии текста Конституции Российской Федерации 1993 г. в простой и доступной форме разъяснены значение ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X8tWaXJuhkAC",
+      "etag": "b1NRFPAO+zM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X8tWaXJuhkAC",
+      "volumeInfo": {
+        "title": "Rework. Бизнес без предрассудков",
+        "authors": [
+          "Джейсон Фрайд",
+          "Дэвид Хайнемайер Хенссон"
+        ],
+        "publisher": "Манн, Иванов и Фербер",
+        "publishedDate": "2013-01-01",
+        "description": "Эта книга стала бестселлером в Америке сразу после выхода. И немудрено — она переворачивает устоявшиеся представления о «правильном» ведении бизнеса, на деле зачастую мешающие успеху. Авторы, два успешных предпринимателя, рассказывают, как начать или усовершенствовать ваш имеющийся бизнес, а точнее — ваши взгляды на него, с тем чтобы обрести невиданную ранее степень свободы и получить гораздо большую эффективность. Книга будет весьма полезна как начинающим, так и опытным предпринимателям. Она одновременно вдохновляет, сбивает с толку, выводит из зоны комфорта и дает полезную практическую базу. Вы и не подозревали, что бизнес может быть таким! Книга издательства 'Манн, Иванов и Фербер'",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785916571196"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5916571194"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 209,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X8tWaXJuhkAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X8tWaXJuhkAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=X8tWaXJuhkAC&printsec=frontcover&dq=*&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=X8tWaXJuhkAC&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rework_%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81_%D0%B1%D0%B5%D0%B7_%D0%BF%D1%80%D0%B5%D0%B4%D1%80%D0%B0.html?hl=&id=X8tWaXJuhkAC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X8tWaXJuhkAC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Эта книга стала бестселлером в Америке сразу после выхода. И немудрено — она переворачивает устоявшиеся представления о ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CVdAAQAAQBAJ",
+      "etag": "k4XCUqRP5/w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CVdAAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Виноваты звезды",
+        "authors": [
+          "Джон Грин"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2013-10-08",
+        "description": "Подростки, страдающие от тяжелой болезни, не собираются сдаваться.Они по-прежнему остаются подростками – ядовитыми, неугомонными, взрывными, бунтующими, равно готовыми и к ненависти, и к любви.Хейзел и Огастус бросают вызов судьбе.Они влюблены друг в друга, их терзает не столько нависшая над ними тень смерти, сколько обычная ревность, злость и непонимание.Они – вместе. Сейчас – вместе. Но что их ждет впереди?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457450189"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "545745018X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 247,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.27.28.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CVdAAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CVdAAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=CVdAAQAAQBAJ&printsec=frontcover&dq=*&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CVdAAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CVdAAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 436.25,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 392.62,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CVdAAQAAQBAJ&rdid=book-CVdAAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 436250000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 392620000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D1%8B_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B-sample-epub.acsm?id=CVdAAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D1%8B_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B-sample-pdf.acsm?id=CVdAAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CVdAAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Подростки, страдающие от тяжелой болезни, не собираются сдаваться.Они по-прежнему остаются подростками – ядовитыми, неугомонными, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cXy0kgEACAAJ",
+      "etag": "F7/K5IQ/YSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cXy0kgEACAAJ",
+      "volumeInfo": {
+        "title": "Знаешь, как я тебя люблю?",
+        "subtitle": "[для детей]",
+        "publishedDate": "2012",
+        "description": "Эта книжка для детей и их родителей, для внуков и внучек, бабушек и дедушек, для влюбленных юных и не очень, для всех, кто любит, любил или хочет любить",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "543700012X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785437000120"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=cXy0kgEACAAJ&dq=*&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=cXy0kgEACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%97%D0%BD%D0%B0%D0%B5%D1%88%D1%8C_%D0%BA%D0%B0%D0%BA_%D1%8F_%D1%82%D0%B5%D0%B1%D1%8F_%D0%BB%D1%8E%D0%B1%D0%BB.html?hl=&id=cXy0kgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cXy0kgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Эта книжка для детей и их родителей, для внуков и внучек, бабушек и дедушек, для влюбленных юных и не очень, для всех, кто любит, любил ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iLgZWfJwziwC",
+      "etag": "gIPos97oZGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iLgZWfJwziwC",
+      "volumeInfo": {
+        "title": "Шпион, выйди вон!",
+        "authors": [
+          "Джон Ле Карре"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2012-05-29",
+        "description": "«Шпион, выйди вон!», по словам самого Джона Ле Карре, является одним из лучших романов британского мэтра за всю историю его творчества. Сегодня весь мир с энтузиазмом перечитывает этот образец классического шпионского триллера благодаря новой экранизации Томаса Альфредсона, которая увидела свет в 2011 году. Главных героев сыграли Гэри Олдмен, Колин Ферт и другие знаменитые актеры.Сюжет основан на реальных событиях – расследовании и разоблачении советских шпионов, работавших под глубоким прикрытием в центральном штабе британской разведки. Джордж Смайли, горячо любимый уже не первым поколением читателей, выдворен со службы и не одинок в этом: всех, кто стремился обнаружить неуловимого «крота», орудующего в недрах родной конторы, постигла печальная судьба. Но деятельность шпиона наносит столь ощутимый ущерб, что высокопоставленные лица вынуждены вновь призвать Смайли на помощь. Нужны его упорство, выдержка и аналитический ум, чтобы шаг за шагом довести расследование до победного финала.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457176799"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457176797"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iLgZWfJwziwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iLgZWfJwziwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=iLgZWfJwziwC&printsec=frontcover&dq=*&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=iLgZWfJwziwC&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A8%D0%BF%D0%B8%D0%BE%D0%BD_%D0%B2%D1%8B%D0%B9%D0%B4%D0%B8_%D0%B2%D0%BE%D0%BD.html?hl=&id=iLgZWfJwziwC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A8%D0%BF%D0%B8%D0%BE%D0%BD_%D0%B2%D1%8B%D0%B9%D0%B4%D0%B8_%D0%B2%D0%BE%D0%BD-sample-epub.acsm?id=iLgZWfJwziwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A8%D0%BF%D0%B8%D0%BE%D0%BD_%D0%B2%D1%8B%D0%B9%D0%B4%D0%B8_%D0%B2%D0%BE%D0%BD-sample-pdf.acsm?id=iLgZWfJwziwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iLgZWfJwziwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "«Шпион, выйди вон!», по словам самого Джона Ле Карре, является одним из лучших романов британского мэтра за всю историю его ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "31kmCwAAQBAJ",
+      "etag": "xUbp6BLoPTg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/31kmCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Как мы будем жить на Марсе",
+        "authors": [
+          "Стивен Петранек"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-04-19",
+        "description": "Есть ли жизнь на Марсе? Мы до сих пор не знаем ответа на этот вопрос. Но зато мы точно знаем, что скоро она там появится. Автор этой книги, специалист в области технологических прогнозов и постоянный спикер ТЕД Стивен Петранек, уверен: первый пилотируемый полет на Марс состоится еще до 2030 года. Причем это, скорее всего, будет экспедиция в один конец: астронавты, высадившиеся на Марсе, останутся там навсегда, чтобы основать первый аванпост человечества за пределами Земли. Этим первопроходцам предстоит решить множество сложнейших проблем, но похоже, что все необходимые для этого технологии уже сегодня есть в нашем распоряжении.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457925816"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457925811"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=31kmCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=31kmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=31kmCwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=31kmCwAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9A%D0%B0%D0%BA_%D0%BC%D1%8B_%D0%B1%D1%83%D0%B4%D0%B5%D0%BC_%D0%B6%D0%B8%D1%82%D1%8C_%D0%BD%D0%B0_%D0%9C.html?hl=&id=31kmCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%B0%D0%BA_%D0%BC%D1%8B_%D0%B1%D1%83%D0%B4%D0%B5%D0%BC_%D0%B6%D0%B8%D1%82%D1%8C_%D0%BD%D0%B0_%D0%9C-sample-epub.acsm?id=31kmCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%B0%D0%BA_%D0%BC%D1%8B_%D0%B1%D1%83%D0%B4%D0%B5%D0%BC_%D0%B6%D0%B8%D1%82%D1%8C_%D0%BD%D0%B0_%D0%9C-sample-pdf.acsm?id=31kmCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=31kmCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Есть ли жизнь на Марсе? Мы до сих пор не знаем ответа на этот вопрос. Но зато мы точно знаем, что скоро она там появится. Автор этой ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1D5mDwAAQBAJ",
+      "etag": "Y4efER5b/20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1D5mDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Алхимик",
+        "authors": [
+          "Пауло Коэльо"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-07-24",
+        "description": "«Алхимик» – самый известный роман Пауло Коэльо, полюбившийся миллионам людей во всем мире, и который по праву попал в книгу рекордов Гиннеса как самый переводимый роман.Главный герой, пастух Сантьяго, живет в Андалусии. Однажды он увидел сон, который манил его отправиться к египетским пирамидам, чтобы найти там сокровище. По совету старика Мельхиседека, царя Салима, Сантьяго продает своих овец и отправляется в Африку. Череда событий в конце концов приводит юношу к Алхимику. Тот учит его, как познать самого себя, Свою Стезю и Душу Мира. Пройдя все испытания, уготованные ему свыше, Сантьяго находит сокровище.«Добиться воплощения Своей Судьбы – вот единственная подлинная обязанность человека...» – утверждает Пауло Коэльо.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041243487"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041243484"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1D5mDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1D5mDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=1D5mDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=1D5mDwAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%90%D0%BB%D1%85%D0%B8%D0%BC%D0%B8%D0%BA.html?hl=&id=1D5mDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%90%D0%BB%D1%85%D0%B8%D0%BC%D0%B8%D0%BA-sample-epub.acsm?id=1D5mDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%90%D0%BB%D1%85%D0%B8%D0%BC%D0%B8%D0%BA-sample-pdf.acsm?id=1D5mDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1D5mDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "«Алхимик» – самый известный роман Пауло Коэльо, полюбившийся миллионам людей во всем мире, и который по праву попал в книгу ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qy8IBAAAQBAJ",
+      "etag": "TpqtnLzayPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qy8IBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Атлас анатомии человека",
+        "authors": [
+          "Василий Федотович Воробьев"
+        ],
+        "publisher": "Рипол Классик",
+        "publishedDate": "1947",
+        "description": "Настоящий атлас является учебным пособием, содержащим основные сведения по строению и функциям органов человека. Материал полностью охватывает весь современный курс анатомии. Данные приведены с учетом специфики некоторых отделений медицинских училищ. Текст сопровождается подробными иллюстрациями. Данное пособие предназначено для учащихся медицинских училищ, лицеев и вузов, а также для младших медицинских работников.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785386049195"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5386049194"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 578,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qy8IBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qy8IBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=Qy8IBAAAQBAJ&printsec=frontcover&dq=*&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Qy8IBAAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%B8%D0%B8_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5.html?hl=&id=Qy8IBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%90%D1%82%D0%BB%D0%B0%D1%81_%D0%B0%D0%BD%D0%B0%D1%82%D0%BE%D0%BC%D0%B8%D0%B8_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5-sample-pdf.acsm?id=Qy8IBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qy8IBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Настоящий атлас является учебным пособием, содержащим основные сведения по строению и функциям органов человека. Материал ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "byrtuQEACAAJ",
+      "etag": "9Kiyshg6Ynk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/byrtuQEACAAJ",
+      "volumeInfo": {
+        "title": "Тонкое искусство пофигизма",
+        "subtitle": "парадоксалУ+00Б4ный способ житУ+00Б4 счастливо",
+        "authors": [
+          "Mark Manson"
+        ],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5961465357"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785961465358"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Conduct of life"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=byrtuQEACAAJ&dq=*&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=byrtuQEACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE%D1%84%D0%B8.html?hl=&id=byrtuQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=byrtuQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Современное общество пропагандирует культ успеха: будь умнее, богаче, продуктивнее - будь лучше всех. Соцсети изобилуют историями ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pZa8DwAAQBAJ",
+      "etag": "9gYI7EMS4ao",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pZa8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Десять негритят / And Then There Were None",
+        "authors": [
+          "Агата Кристи"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2019-11-05",
+        "description": "Десять никак не связанных между собой людей в особняке на уединенном острове... Кто вызвал их сюда таинственным приглашением? Зачем кто-то убивает их, одного за другим, самыми невероятными способами? Почему все происходящее так тесно переплетено с веселым детским стишком?В формате pdf A4 сохранен издательский макет.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041947774"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041947775"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 540,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.51.54.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pZa8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pZa8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=pZa8DwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pZa8DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pZa8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 461.25,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 415.12,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=pZa8DwAAQBAJ&rdid=book-pZa8DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 461250000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 415120000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B5%D1%81%D1%8F%D1%82%D1%8C_%D0%BD%D0%B5%D0%B3%D1%80%D0%B8%D1%82%D1%8F%D1%82_And_Then_T-sample-epub.acsm?id=pZa8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B5%D1%81%D1%8F%D1%82%D1%8C_%D0%BD%D0%B5%D0%B3%D1%80%D0%B8%D1%82%D1%8F%D1%82_And_Then_T-sample-pdf.acsm?id=pZa8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pZa8DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Десять никак не связанных между собой людей в особняке на уединенном острове... Кто вызвал их сюда таинственным приглашением? Зачем ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rZOkDwAAQBAJ",
+      "etag": "xLwVXWTmcV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rZOkDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Подземная железная дорога",
+        "authors": [
+          "Колсон Уайтхед"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2019-07-22",
+        "description": "Роман Колсона Уайтхеда получил несколько престижных премий, газета New York Times назвала его бестселлером номер один, им восхищаются литературные критики и видные общественные деятели. Это история о борьбе с рабством в Америке XIX века, и историческая правда переплетена в ней не только с художественным вымыслом, но и с фантастическими допущениями. Подземной железной дорогой называли организацию, помогавшую неграм добираться с рабовладельческого Юга на Север, но в книге Уайтхеда это настоящая железная дорога, со станциями, поездами, машинистами. Именно по ней уезжает юная Кора, сбежавшая с хлопковой плантации в Джорджии, по ней путешествует, преодолевая суровые испытания, по стране, там же находит путь к спасению.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041814427"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041814422"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 346,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.9.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rZOkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rZOkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=rZOkDwAAQBAJ&pg=PP1&dq=*&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rZOkDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rZOkDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 598.75,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 538.88,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rZOkDwAAQBAJ&rdid=book-rZOkDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 598750000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 538880000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE-sample-epub.acsm?id=rZOkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%B4%D0%BE-sample-pdf.acsm?id=rZOkDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rZOkDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Роман Колсона Уайтхеда получил несколько престижных премий, газета New York Times назвала его бестселлером номер один, им восхищаются ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NelJDwAAQBAJ",
+      "etag": "sr859iaosIU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NelJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Гордость и предубеждение",
+        "subtitle": "Романы о любви",
+        "authors": [
+          "Джейн Остин"
+        ],
+        "publisher": "Strelbytskyy Multimedia Publishing",
+        "publishedDate": "2018-02-01",
+        "description": "«Гордость и предубеждение» Джейн Остин - шедевр мировой литературы, предзнаменовавший развитие психологического романа и феминистской прозы. Впервые опубликованный более 200 лет назад, он не теряет своей популярности и актуальности, соединяя в себе невероятное литературное мастерство его создательницы с веселой и непосредственной манерой и легкостью изложения. Роман многократно экранизировался и неизменно входит в различные рейтинги лучших книг мировой литературы. У супругов Беннет пять прекрасных дочерей, они красивы, независимы и умны. Лишь одно омрачает их любящих родителей - у них совсем нет приданого. Знаменитая история внутренней борьбы, недоверия и, конечно, любви без преград выписана с неподражаемым психологизмом и тонким английским юмором.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:SMP2300000140613"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NelJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NelJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=NelJDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NelJDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NelJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.28,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 14.28,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NelJDwAAQBAJ&rdid=book-NelJDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14280000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 14280000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%83%D0%B1%D0%B5%D0%B6%D0%B4%D0%B5-sample-epub.acsm?id=NelJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D1%81%D1%82%D1%8C_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D1%83%D0%B1%D0%B5%D0%B6%D0%B4%D0%B5-sample-pdf.acsm?id=NelJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NelJDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "«Гордость и предубеждение» Джейн Остин - шедевр мировой литературы, предзнаменовавший развитие психологического романа и ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j-6KDwAAQBAJ",
+      "etag": "Q8oAVOtWj3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j-6KDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Убить пересмешника",
+        "authors": [
+          "Харпер Ли"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2019-02-28",
+        "description": "Штат Алабама, 1930-е годы, время Великой депрессии и расцвет расовой нетерпимости на юге Америки. Адвокат Аттикус Финч защищает чернокожего, обвинённого в преступлении, которого он не совершал. А ещё это история о том, как двое его детей, которых он растит в одиночку, делают первые шаги из мира фантазий во взрослый мир и на собственном опыте узнают, что такое благородство, сострадание и справедливость.Создавая графический роман «Убить пересмешника», художник Фред Фордэм не стремился заново переписать роман Харпер Ли, напротив – в своих иллюстрациях он сохранил дух оригинального произведения, ставшего культовым для нескольких поколений.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041573348"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041573344"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j-6KDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j-6KDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=j-6KDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=j-6KDwAAQBAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A3%D0%B1%D0%B8%D1%82%D1%8C_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%B0.html?hl=&id=j-6KDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A3%D0%B1%D0%B8%D1%82%D1%8C_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%B0-sample-pdf.acsm?id=j-6KDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j-6KDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Штат Алабама, 1930-е годы, время Великой депрессии и расцвет расовой нетерпимости на юге Америки. Адвокат Аттикус Финч защищает ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "elkSEQAAQBAJ",
+      "etag": "fVlmAtzvwRY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/elkSEQAAQBAJ",
+      "volumeInfo": {
+        "title": "12 правил жизни: противоядие от хаоса",
+        "subtitle": "Предисловие Нормана Дойджа",
+        "authors": [
+          "Дж. Питерсон"
+        ],
+        "publisher": "Питер",
+        "publishedDate": "2023-05-10",
+        "description": "Современный мир — это цитадель порядка или царство хаоса? Мы появляемся на свет, чтобы стать вольными художниками Бытия или следовать универсальным Правилам? Отвечая на сложнейшие вопросы мироустройства, доктор Питерсон мастерски сплетает постулаты древних учений, великие литературные произведения и откровения современной науки и философии. Лобстеры непреклонны и тверды, защищая свою территорию. Шимпанзе кровожадны и склонны к иерархии. Кошки дружелюбны, но живут сами по себе. Не теми ли путями идут люди, балансируя между добротой и озлобленностью, великодушием и обидой благородством и мстительностью? «12 правил жизни» — 12 бездонно простых истин, мудрые законы существования, низвергающие стереотипы и облагораживающие разум и дух читателя. Джордан Питерсон — клинический психолог, философ, профессор психологии Университета Торонто. Занимается исследованием идеологии, религии, тоталитарных систем, личности и сознания. Его лекции и выступления набирают миллионные просмотры на YouTube, что сделало этого харизматичного преподавателя и мыслителя настоящим кумиром современной интеллектуальной молодежи.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446111152"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "544611115X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 634,
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=elkSEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=elkSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=elkSEQAAQBAJ&printsec=frontcover&dq=*&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=elkSEQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=elkSEQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 399,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 399,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=elkSEQAAQBAJ&rdid=book-elkSEQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 399000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 399000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/12_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-sample-epub.acsm?id=elkSEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/12_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-sample-pdf.acsm?id=elkSEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=elkSEQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Современный мир — это цитадель порядка или царство хаоса? Мы появляемся на свет, чтобы стать вольными художниками Бытия или ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mWBjDwAAQBAJ",
+      "etag": "Sf0z6BzH9oc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mWBjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Уродливая любовь",
+        "authors": [
+          "Колин Гувер"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-07-08",
+        "description": "Колин Гувер – автор, которому читатели доверяют свое сердце. Она – мировой тренд, литературный феномен нашего времени, троекратная обладательница премии Goodreads Choice Award в номинации «любовный роман». Ее произведения переведены на десятки языков. Продажи книг Колин Гувер превысили продажи Стивена Кинга и Джорджа Мартина. Более 3 000 000 000 просмотров в TikTok.«Уродливая любовь» – это история о том, что иногда мы опускаемся на дно, чтобы оттолкнуться от него, и затем всплываем на солнечную поверхность.Вода – главный символ этой книги. Та, что тянет на дно, когда мы растворяемся в партнере. Та, которой становимся сами, окончательно растворившись в нем. И та, которая может навсегда забрать то, что нам дорого.«Внезапно хочется одуматься и сбежать, но вместо этого я киваю, потому что согласна на все. Рядом с ним я больше не Тейт. Я вода, а жидкость не способна проявить твердость. Вода просто течет. Именно этого я и желаю – просто плыть с ним по течению».Майлзу не нужна любовь, а у Тейт нет времени на серьезные отношения. Их тянет друг к другу, и он ставит условия: не спрашивай о прошлом, не рассчитывай на будущее. И она соглашается.Тейт пытается убедить себя, что все в порядке, но вскоре понимает, что хочет нарушить оба правила.Как сказать «нет» тому, кому желаешь говорить лишь «да»?И как спасти любовь, которая стала уродливой?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041208264"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041208263"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.75.71.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mWBjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mWBjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=mWBjDwAAQBAJ&printsec=frontcover&dq=*&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mWBjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mWBjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 286.25,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 257.62,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mWBjDwAAQBAJ&rdid=book-mWBjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 286250000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 257620000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A3%D1%80%D0%BE%D0%B4%D0%BB%D0%B8%D0%B2%D0%B0%D1%8F_%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-sample-epub.acsm?id=mWBjDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A3%D1%80%D0%BE%D0%B4%D0%BB%D0%B8%D0%B2%D0%B0%D1%8F_%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-sample-pdf.acsm?id=mWBjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mWBjDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Колин Гувер – автор, которому читатели доверяют свое сердце. Она – мировой тренд, литературный феномен нашего времени, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jnb_0AEACAAJ",
+      "etag": "Dl8WXHrKFhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jnb_0AEACAAJ",
+      "volumeInfo": {
+        "title": "Пятьдесят оттенков серого",
+        "authors": [
+          "E. L. James",
+          "Эл Джеймс"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2012",
+        "description": "«Пятьдесят оттенков серого» – первая часть трилогии Э Л Джеймс, которая сделала автора знаменитой и побила все рекорды продаж: 15 миллионов экземпляров за три месяца. По мнению Лисс Штерн, основательницы DivaMoms.com, «эти книги способны разжечь огонь любви между супругами с большим стажем. Прочитав их, вы вновь почувствуете себя сексуальной».",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5699586997"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785699586998"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jnb_0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jnb_0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=jnb_0AEACAAJ&dq=*&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=jnb_0AEACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9F%D1%8F%D1%82%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82_%D0%BE%D1%82%D1%82%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2_%D1%81%D0%B5.html?hl=&id=jnb_0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jnb_0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "«Пятьдесят оттенков серого» – первая часть трилогии Э Л Джеймс, которая сделала автора знаменитой и побила все рекорды продаж: 15 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NzcwygAACAAJ",
+      "etag": "CR8gmDSk+yc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NzcwygAACAAJ",
+      "volumeInfo": {
+        "title": "Кот в шляпе",
+        "authors": [
+          "Владимир Гандельсман"
+        ],
+        "publishedDate": "2008",
+        "description": "Two children sitting at home on a rainy day are visited by the Cat in the Hat who shows them some tricks and games.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5170505558"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785170505555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 63,
+        "printType": "BOOK",
+        "categories": [
+          "Cats"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=NzcwygAACAAJ&dq=*&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=NzcwygAACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9A%D0%BE%D1%82_%D0%B2_%D1%88%D0%BB%D1%8F%D0%BF%D0%B5.html?hl=&id=NzcwygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NzcwygAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Two children sitting at home on a rainy day are visited by the Cat in the Hat who shows them some tricks and games."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "olYmkgEACAAJ",
+      "etag": "NnRxn+Pjy44",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/olYmkgEACAAJ",
+      "volumeInfo": {
+        "title": "Разум за Бога",
+        "subtitle": "почему среди умных так много верующих : [пер. с англ.]",
+        "authors": [
+          "Тимоти Келлер"
+        ],
+        "publishedDate": "2012",
+        "description": "Такие книги, как эта, сегодня закладывают основу для того, как будут говорить о религии завтра. Автор собрал все главные претензии современной культуры к христианству",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5699508546"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785699508549"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 415,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=olYmkgEACAAJ&dq=*&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=olYmkgEACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A0%D0%B0%D0%B7%D1%83%D0%BC_%D0%B7%D0%B0_%D0%91%D0%BE%D0%B3%D0%B0.html?hl=&id=olYmkgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=olYmkgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Такие книги, как эта, сегодня закладывают основу для того, как будут говорить о религии завтра. Автор собрал все главные претензии ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7r9oOQAACAAJ",
+      "etag": "6hAIGpF5RV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7r9oOQAACAAJ",
+      "volumeInfo": {
+        "title": "Игра престолов",
+        "subtitle": "[роман]",
+        "authors": [
+          "George R. R. Martin",
+          "Джордж Р. Р. Мартин"
+        ],
+        "publishedDate": "2011",
+        "description": "Книга бесспорно возглавляет список \"культовых\" книг XX века. Автор создал удивительный мир, который влечет к себе миллионы читателей",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5170225083"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785170225088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 770,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=7r9oOQAACAAJ&dq=*&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=7r9oOQAACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%98%D0%B3%D1%80%D0%B0_%D0%BF%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2.html?hl=&id=7r9oOQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7r9oOQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Книга бесспорно возглавляет список &quot;культовых&quot; книг XX века. Автор создал удивительный мир, который влечет к себе миллионы ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vTt8zM3kLBYC",
+      "etag": "2KQEvru/NL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vTt8zM3kLBYC",
+      "volumeInfo": {
+        "title": "Лев, Колдунья и платяной шкаф",
+        "authors": [
+          "Клайв Льюис"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2011-02-16",
+        "description": "В загадочном старинном особняке старого-престарого профессора в самом центре Англии Люси находит шкаф, сделанный из волшебного нарнийского дерева, и чудесным образом попадает в Нарнию – но ей никто не верит. Однако совсем скоро Питеру, Эдмунду и Сьюзен доведется самим убедиться в правдивости слов младшей сестры. В мгновение ока они перенесутся из дождливого дня Англии в темную снежную ночь Нарнии.Почему волшебную Нарнию, страну вечного лета и благоденствия, сковал холодный лед? Сбылось древнее пророчество – дети вновь оказались в Нарнии. Теперь от их поступков зависят судьбы всех обитателей страны.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457015968"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457015963"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 151,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.13.13.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vTt8zM3kLBYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vTt8zM3kLBYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=vTt8zM3kLBYC&dq=*&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vTt8zM3kLBYC&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9B%D0%B5%D0%B2_%D0%9A%D0%BE%D0%BB%D0%B4%D1%83%D0%BD%D1%8C%D1%8F_%D0%B8_%D0%BF%D0%BB%D0%B0%D1%82%D1%8F%D0%BD.html?hl=&id=vTt8zM3kLBYC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vTt8zM3kLBYC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "В загадочном старинном особняке старого-престарого профессора в самом центре Англии Люси находит шкаф, сделанный из волшебного ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UJyBkgAACAAJ",
+      "etag": "bQ/sPJY7Ohg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UJyBkgAACAAJ",
+      "volumeInfo": {
+        "title": "Над пропастью во ржи",
+        "subtitle": "[сборник]",
+        "authors": [
+          "Джером Дэвид Сэлинджер"
+        ],
+        "publishedDate": "2009",
+        "description": "Содерж.: Над пропастью во ржи : роман ; повести: Выше стропила, плотники ; Симор: Введение ; Фрэнни ; Зуи ; рассказы: Хорошо ловится рыбка-бананка ; Лапа-растяпа ; Перед самой войной с эскимосами ; Человек, который смеялся ; В лодке, и др.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5699356495"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785699356492"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 636,
+        "printType": "BOOK",
+        "categories": [
+          "American fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UJyBkgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UJyBkgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=UJyBkgAACAAJ&dq=*&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=UJyBkgAACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9D%D0%B0%D0%B4_%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C%D1%8E_%D0%B2%D0%BE_%D1%80%D0%B6%D0%B8.html?hl=&id=UJyBkgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UJyBkgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Содерж.: Над пропастью во ржи : роман ; повести: Выше стропила, плотники ; Симор: Введение ; Фрэнни ; Зуи ; рассказы: Хорошо ловится ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0gWMtgEACAAJ",
+      "etag": "h1venqfOcMI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0gWMtgEACAAJ",
+      "volumeInfo": {
+        "title": "Я не сделал уроки, потому что...",
+        "authors": [
+          "Davide Calì"
+        ],
+        "publishedDate": "2015",
+        "description": "A humorous story about the absurd excuses for not doing homework.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5000740858"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785000740859"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Excuses"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=0gWMtgEACAAJ&dq=*&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=0gWMtgEACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%AF_%D0%BD%D0%B5_%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%BB_%D1%83%D1%80%D0%BE%D0%BA%D0%B8_%D0%BF%D0%BE%D1%82%D0%BE.html?hl=&id=0gWMtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0gWMtgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A humorous story about the absurd excuses for not doing homework."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z3dLkgAACAAJ",
+      "etag": "3yu0TtwvHSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z3dLkgAACAAJ",
+      "volumeInfo": {
+        "title": "Сфера услуг: экономика, менеджмент, маркетинг",
+        "subtitle": "практикум : [учеб. пособие для вузов]",
+        "publishedDate": "2010",
+        "description": "Практикум носит прикладной характер, обогащает методическое сопровождение и междисциплинарные связи, формируя у студентов целостную системы знаний по взаимосвязанным дисциплинам. Предназначен для студентов, магистрантов и преподавателей вузов",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5406001744"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785406001745"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 421,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=z3dLkgAACAAJ&dq=*&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=z3dLkgAACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A1%D1%84%D0%B5%D1%80%D0%B0_%D1%83%D1%81%D0%BB%D1%83%D0%B3_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0.html?hl=&id=z3dLkgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z3dLkgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Практикум носит прикладной характер, обогащает методическое сопровождение и междисциплинарные связи, формируя у студентов ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J9miNwAACAAJ",
+      "etag": "Tol9LPtdvd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J9miNwAACAAJ",
+      "volumeInfo": {
+        "title": "Математика как метафора",
+        "authors": [
+          "Юрий Иванович Манин"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5940572871"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785940572879"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=J9miNwAACAAJ&dq=*&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=J9miNwAACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0_%D0%BA%D0%B0%D0%BA_%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D0%BE.html?hl=&id=J9miNwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J9miNwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mhfh0AEACAAJ",
+      "etag": "hZE1JgttDd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mhfh0AEACAAJ",
+      "volumeInfo": {
+        "title": "Богатый папа, бедный папа",
+        "authors": [
+          "Роберт Кийосаки"
+        ],
+        "publishedDate": "2022",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9851550949"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789851550940"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Finance, Personal"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=Mhfh0AEACAAJ&dq=*&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Mhfh0AEACAAJ&dq=*&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%B0%D0%BF%D0%B0_%D0%B1%D0%B5%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF.html?hl=&id=Mhfh0AEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mhfh0AEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
