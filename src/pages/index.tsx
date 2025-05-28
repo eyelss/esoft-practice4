@@ -7,7 +7,7 @@ import NotFound from "./404";
 type PageRoute = {
   path: string;
   title: string;
-  component: (props: any) => JSX.Element;
+  component: (props: unknown) => JSX.Element;
   // Hide from navigaton panel
   hide?: boolean;
 }
